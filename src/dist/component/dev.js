@@ -1,0 +1,1 @@
+define(["require","component/a"],function(e){function n(){console.log("dev is ready!")}var t=e("component/a");return{dev:n}});

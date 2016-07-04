@@ -1,0 +1,8 @@
+
+app.js
+----------------
+component/a.js
+component/d.js
+component/b.js
+component/ab.js
+app.js
